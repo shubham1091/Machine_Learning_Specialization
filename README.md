@@ -1,30 +1,3 @@
-<style>
-.skill-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.skill-table td {
-  padding: 10px;
-  text-align: center;
-  background-color: transparent;
-  transition: background-color 0.3s;
-}
-
-.skill-table td:hover {
-  background-color: #c8c8c8;
-  color: #ffffff;
-}
-
-.skill-table td div {
-  display: inline-block;
-  padding: 5px;
-  border-radius: 20px;
-  background-color: #f2f2f2;
-  color: #000000;
-}
-</style>
-
 # Machine Learning Specialization
 
 **#BreakIntoAI** with Machine Learning Specialization. Master fundamental AI concepts and develop practical<br>
